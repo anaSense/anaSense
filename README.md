@@ -21,7 +21,7 @@
 <a href="https://git-scm.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </a> 
 <a href="https://gradle.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/> </a>
-<a href="https://allurereport.org/"> <img src="icons/allure_report.png" title="Allure report" alt="Allure report" width="40" height="40"/> </a>
+<a href="https://allurereport.org/"> <img src="icons/allure_report.svg" title="Allure report" alt="Allure report" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/jira"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/> </a>
 <a href="https://proxyman.io/"> <img src="icons/proxyman.png" title="Proxyman" alt="Proxyman" width="40" height="40"/> </a>
 <a href="https://www.postman.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/> </a>
