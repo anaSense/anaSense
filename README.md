@@ -2,8 +2,8 @@
 <h3 align="center">Senior Manual QA Engineer</h1> 
 
 ## About Me
-- 🔭 Experienced and results-oriented QA engineer, specializing in manual mobile (iOS + Android) and API testing with over 6 years of experience.
-- 🌱 I'm currently developing my automation skills on stack **Selenide with JUnit + Java**
+- Experienced and results-oriented QA engineer, specializing in manual mobile (iOS + Android) and API testing with over 6 years of experience.
+- I'm currently developing my automation skills on stack **Selenide with JUnit + Java**
 
 ## Language
 <a href="https://www.w3schools.com/java/"> <img src="icons/java.svg" title="Java" alt="Java" width="50" height="50"/> </a> 
@@ -27,8 +27,16 @@
 <a href="https://www.postman.com/"> <img src="icons/postman.svg" title="Postman" alt="Postman" width="40" height="40"/> </a>
 <a href="https://qase.io/"> <img src="icons/qase.jpg" title="Qase" alt="Qase" width="35" height="35"/> </a>
 
+## My projects
+**QA GURU** (Test Automation course on JAVA, [read more](https://qa.guru/java))  
 
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=anaSense&repo=bellintegrator_uitests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/anaSense/bellintegrator_uitests)
 
+## Stats
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaSense&show_icons=true&bg_color=D3E2FD&title_color=182D71&text_color=182D71&icon_color=B07219)
+
+## Contact me 
+<img src="icons/telegram.png" title="Telegram" alt="Telegram" width="15" height="15"/> [@egorova_an](https://t.me/egorova_an)
 <!--
 **anaSense/anaSense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
