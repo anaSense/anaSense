@@ -32,6 +32,7 @@
 **QA GURU** (Test Automation course on JAVA, [read more](https://qa.guru/java))  
 
 [![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=anaSense&repo=bellintegrator_uitests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/anaSense/bellintegrator_uitests)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=anaSense&repo=respublica-apitests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/anaSense/respublica-apitests)
 
 ## Stats
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaSense&show_icons=true&bg_color=D3E2FD&title_color=182D71&text_color=182D71&icon_color=B07219)
