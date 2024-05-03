@@ -16,6 +16,7 @@
 ## Automotization frameworks
 <a href="https://junit.org/junit5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/> </a>
 <a href="https://selenide.org"> <img src="icons/selenide.png" title="Selenide" alt="Selenide" width="40" height="40"/> </a>
+<a href="https://rest-assured.io/"> <img src="icons/rest_assured.png" title="REST-assured" alt="REST-assured" width="40" height="40"/> </a>
 
 ## Tools
 <a href="https://git-scm.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </a> 
